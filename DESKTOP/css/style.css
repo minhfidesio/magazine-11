@@ -42,17 +42,17 @@ p, ul{
     font-size: 17px !important;
     line-height: 30px !important;
 }
-body{
+/*body{
     background-color: black;
     color: white;
-}
+}*/
 
 .font-bold{
     font-weight: bold;
 }
 body a:link{
-    color: white;
-    -webkit-text-fill-color: white;
+    color: black;
+    -webkit-text-fill-color: black;
     font-weight: bold;
 
 }
